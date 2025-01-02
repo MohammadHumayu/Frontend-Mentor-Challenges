@@ -1,1 +1,1 @@
-[QR](https://github.com/MohammadHumayu/Frontent-Mentor-Challenges/tree/main/QR-code-component-solution)
+[QR](https://github.com/MohammadHumayu/Frontend-Mentor-Challenges/tree/main/QR-code-component-solution)
