@@ -19,7 +19,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [solution](https://www.frontendmentor.io/solutions/responsive-page-for-qr-code-component-using-css-flexbox-OXoMNSw2Xk)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-page-for-qr-code-component-using-css-flexbox-OXoMNSw2Xk)
 - Live Site URL: [Visit Site](https://mohammadhumayu.github.io/Frontend-Mentor-Challenges/QR-code-component-solution/)
 
 ## My process
