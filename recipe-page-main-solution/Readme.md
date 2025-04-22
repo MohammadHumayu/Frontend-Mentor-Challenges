@@ -22,7 +22,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Solution]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-landing-page-using-media-queries-8lF-DqcxWx)
 - Live Site URL: [Visit Site](https://mohammadhumayu.github.io/Frontend-Mentor-Challenges/recipe-page-main-solution/)
 
 ## My process
