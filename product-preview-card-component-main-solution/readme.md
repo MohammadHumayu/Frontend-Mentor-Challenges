@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-landing-page-using-media-query-dXPMZS40Zr)
 - Live Site URL: [Visit Site](https://mohammadhumayu.github.io/Frontend-Mentor-Challenges/product-preview-card-component-main-solution/)
 
 
