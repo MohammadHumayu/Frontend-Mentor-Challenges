@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-color:  #f2ebe3;
+    font-family: "Montserrat", sans-serif;
+    height: 100vh;
+    font-weight: 500;
+    color: #6c7289;
+}
+
+section{
+
+    height: 100vh;
+    width: 93%;
+    margin: 1.2em 0.8em;
+    background-color: white;
+    border-radius: .8em;
+}
+
+
+img{
+    width: 100%;
+    border-radius: .8em .8em 0em 0em;
+}
+
+
+h1{
+    color: #1c232b;
+    font-family: "Fraunces", serif;
+    font-weight: 700;
+    font-size: 2em;
+    line-height: 1;
+}
+
+
+button{
+    background-color: #3c8067;
+    display: block;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: white;
+    width: 100%;
+    
+    margin: 1.3em;
+    margin-left: 0;
+
+    padding: 1.3em;
+    border: none;
+    border-radius: .8em;
+
+}
+
+#main{
+    margin: 1em 2em;
+}
+
+
+#top{
+    margin: 1em 0em;
+    margin-bottom: 0.8em;
+    letter-spacing: .2em;
+    font-size: .85em;
+}
+
+
+#main-p{
+    margin: 1.5em 0em;
+    font-size: .85em;
+
+}
+
+
+#price{
+    display: flex;
+    align-items: center;
+}
+
+#new-price{
+    color: #3c8067;
+    font-family: "Fraunces", serif;
+    font-size: 2em;
+}
+
+#old-price{
+    color: #6c7289;
+    font-size: 1em;
+    margin-left: 1.5em;
+    text-decoration: line-through;
+}
+
+#cart{
+    width: 1em;
+}
+
+
+/* responsiveness */
+
+
+@media screen and (min-width:1440px) {
+    body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 1.5em;
+    }
+    section{
+        height: 65%;
+        width: 60%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    img{
+        height: 100%;
+        border-radius: .8em 0em 0em .8em;
+    }
+
+    #main{
+        margin: 2em;
+    }
+
+    button{
+        margin-top: 3em;
+        font-size: .75em;
+        padding: 1.1em;
+        
+    }
+    button:hover{
+        background-color: #1b4133;
+    }
+}
